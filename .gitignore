@@ -1,0 +1,15 @@
+# Environment / secrets
+.env
+*.env
+
+# PyCharm
+.idea/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime output
+feedback_log.csv
