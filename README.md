@@ -38,7 +38,7 @@ $env:GEMINI_API_KEY="your-key-here"
 ## Run it
 
 ```bash
-python ai_assistant.py
+python main.py
 ```
 
 The first line printed confirms the mode:
